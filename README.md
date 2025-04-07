@@ -4,15 +4,7 @@ Welcome to my GitHub! I am an aspiring front-end web developer with a strong fou
 
 ## Skills
 
-### Data Entry & Typing
-I have solid experience in data entry and typing, ensuring high-speed, accurate work. Here’s a breakdown of my skills:
 
-- Data Entry: Efficient in managing, entering, and organizing data into systems or spreadsheets. Proficient with data cleaning and updating processes.
-- Typing Speed: Typing at X words per minute with high accuracy, making me efficient in document transcription, data entry, and report generation.
-- Tools & Software:
-  - Microsoft Excel
-  - Google Sheets
-  - Data management software (e.g., Access, Airtable)
 
 ### Front-End Development Skills  
 I am currently focusing on front-end web development, with expertise in creating responsive, user-friendly websites. Below are the key technologies I work with:

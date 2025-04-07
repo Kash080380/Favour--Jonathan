@@ -31,15 +31,6 @@ A collaborative website project that I worked on with a team. This project focus
 - Tech Stack: HTML, CSS, JavaScript, React
 - Link: [GitHub Joint Project](https://github.com/SusanMackson/EMBOLDLAB-DigFace)
 
-## Experience
-
-### Data Entry Projects
-- Project 1: Managed and entered large datasets into an online database, ensuring that all records were accurate and up-to-date. Used Microsoft Excel and Google Sheets for tracking and organization.
-- Project 2: Transferred data from physical records to digital format, including customer information, invoices, and financial records, using both Excel and Airtable.
-
-### Typing Projects
-- Project 1: Typed and formatted reports and documents from audio files into digital formats with high speed and accuracy.
-- Project 2: Assisted in transcribing research interviews and meetings, ensuring timely and precise delivery of typed content.
 
 ## Contact
 
